@@ -1,0 +1,1 @@
+GREET, MAIN, ASKED, FINISHED = range(4)
